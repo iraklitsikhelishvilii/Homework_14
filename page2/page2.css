@@ -70,13 +70,16 @@ button:hover {
 @media (max-width: 500px) {
   body {
     background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .container {
     box-shadow: none;
     padding-top: 150px;
     display: flex;
     flex-direction: column;
-   justify-content: center;
+    justify-content: center;
     max-width: 600px;
   }
   h1 {

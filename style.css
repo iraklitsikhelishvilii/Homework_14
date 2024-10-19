@@ -116,6 +116,7 @@ button:hover {
     height: auto;
     flex-direction: column-reverse;
     box-shadow: none;
+    padding-top: 40px;
   }
   .main_img {
     display: none;
