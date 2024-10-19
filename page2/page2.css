@@ -79,7 +79,7 @@ button:hover {
     padding-top: 150px;
     padding-left: 0%;
     justify-content: center;
-    width: 300px;
+    width: 305px;
   }
   h1 {
     font-size: 40px;
@@ -94,6 +94,9 @@ button:hover {
     display: none;
   }
   .media_br {
-    display: inline-block;
+    display: block;
+  }
+  p {
+    font-size: 15px;
   }
 }
