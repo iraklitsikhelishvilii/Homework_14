@@ -70,17 +70,16 @@ button:hover {
 @media (max-width: 500px) {
   body {
     background-color: white;
-    display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
   }
   .container {
+    height: auto;
     box-shadow: none;
     padding-top: 150px;
-    display: flex;
-    flex-direction: column;
+    padding-left: 0%;
     justify-content: center;
-    max-width: 600px;
+    width: 375px;
   }
   h1 {
     font-size: 40px;
@@ -89,6 +88,7 @@ button:hover {
     width: 327px;
     height: 56px;
     margin-top: 260px;
+    margin-bottom: 40px;
   }
   br {
     display: none;
