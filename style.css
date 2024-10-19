@@ -140,6 +140,7 @@ button:hover {
   }
   .contant {
     align-items: baseline;
+    width: 300px;
   }
   .autcontainer_img {
     display: block;
